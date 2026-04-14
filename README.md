@@ -1,13 +1,27 @@
 # dangerous-websites
 used in my apis
 format
-- "https://example.com", "malware"         # distributes or hosts malicious software/exploits
-- "https://example.com", "phishing"        # fake login pages, credential harvesters
-- "https://example.com", "scam"            # fake giveaways, lottery fraud, financial deception
-- "https://example.com", "scareware"       # fake virus alerts, bogus security warnings
-- "https://example.com", "spam"            # bulk unsolicited content, link farms
-- "https://example.com", "adware"          # deceptive ad networks, forced redirects
-- "https://example.com", "tracking"        # invasive cross-site fingerprinting
-- "https://example.com", "cryptomining"    # unauthorized browser-based crypto mining
-- "https://example.com", "riskware"        # software bundlers, PUAs, unwanted installers
-- "https://example.com", "piracy"          # copyright-infringing distribution
+# Lines starting with # are comments and are ignored
+
+# ── Basic: URL only ──────────────────────────────────────────────
+"https://freerobux.com"
+
+# ── With reason ──────────────────────────────────────────────────
+"https://freerobux.com","scam"
+
+# ── With reason + developer note (shown on blocked page + notification) ──
+"https://freerobux.com","scam","Fake Roblox currency site - harvests account credentials"
+"https://evil-download.net","malware","Bundles ransomware in fake software installers"
+"https://yourbank-login.ru","phishing","Spoofs a major US bank login page"
+
+# ── Valid reason values (each gets its own colour on the blocked page) ──
+# malware       — distributes viruses, trojans, ransomware
+# phishing      — steals credentials via fake login pages
+# scam          — fake giveaways, lottery fraud, advance-fee
+# scareware     — fake virus alerts, forced purchase flows
+# spam          — unsolicited ad networks, click farms
+# adware        — aggressive ad injection / redirect chains
+# tracking      — stalkerware, covert data collection
+# riskware      — grey-area PUPs, misleading software
+# piracy        — copyright-infringing warez / streaming
+# cryptomining  — browser-based coin miners without consent
