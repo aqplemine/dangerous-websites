@@ -1,2 +1,13 @@
 # dangerous-websites
 used in my apis
+format
+- "https://example.com", "malware"         # distributes or hosts malicious software/exploits
+- "https://example.com", "phishing"        # fake login pages, credential harvesters
+- "https://example.com", "scam"            # fake giveaways, lottery fraud, financial deception
+- "https://example.com", "scareware"       # fake virus alerts, bogus security warnings
+- "https://example.com", "spam"            # bulk unsolicited content, link farms
+- "https://example.com", "adware"          # deceptive ad networks, forced redirects
+- "https://example.com", "tracking"        # invasive cross-site fingerprinting
+- "https://example.com", "cryptomining"    # unauthorized browser-based crypto mining
+- "https://example.com", "riskware"        # software bundlers, PUAs, unwanted installers
+- "https://example.com", "piracy"          # copyright-infringing distribution
