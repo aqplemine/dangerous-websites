@@ -26,3 +26,4 @@
 
 # ------------------------------
 "https://freerobux.com","scam","Fake Roblox currency site - harvests account credentials" #self-explanitory, has a new look but i aint buyin ANY of it.
+"trustsentry.org","phishing","Fake site, used to steal Roblox account info and send it to a Discord server while impersonating another website." #new UNLEGIT, and UNREAL use, but still blocked.
