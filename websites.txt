@@ -5,3 +5,5 @@
 
 "https://freerobux.com","scam","Fake Roblox currency site - harvests account credentials."
 "https://trustsentry.org","malware","Fake site, used to steal Roblox account info and send it to a Discord server while impersonating another website."
+"https://luiboard.com","malware","Once real site, now is used for malware and notification spam of 'real' antivirus products and much more."
+"https://bloxtools.nl","malware","Steals Roblox account info, prompts the user to paste in their Roblox cookie to steal their account."
