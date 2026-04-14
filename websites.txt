@@ -1,34 +1,8 @@
-# format
-# Lines starting with # are comments and are ignored
-
-# ── Basic: URL only ──────────────────────────────────────────────
-"https://freerobux.com"
-
-# ── With reason ──────────────────────────────────────────────────
-"https://freerobux.com","scam"
-
-# ── With reason + developer note (shown on blocked page + notification) ──
-"https://freerobux.com","scam","Fake Roblox currency site - harvests account credentials"
-"https://evil-download.net","malware","Bundles ransomware in fake software installers"
-"https://yourbank-login.ru","phishing","Spoofs a major US bank login page"
-
-# ── Valid reason values (each gets its own colour on the blocked page) ──
-# malware       — distributes viruses, trojans, ransomware
-# phishing      — steals credentials via fake login pages
-# scam          — fake giveaways, lottery fraud, advance-fee
-# scareware     — fake virus alerts, forced purchase flows
-# spam          — unsolicited ad networks, click farms
-# adware        — aggressive ad injection / redirect chains
-# tracking      — stalkerware, covert data collection
-# riskware      — grey-area PUPs, misleading software
-# piracy        — copyright-infringing warez / streaming
-# cryptomining  — browser-based coin miners without consent
-
-# ------------------------------
 # EzTheme — Aqplemine's Dangerous Websites List
 # Format: "url","reason" or "url","reason","developer note"
 # Valid reasons: malware, phishing, scam, scareware, spam, adware, tracking, riskware, piracy, cryptomining
 # Lines starting with # are ignored.
-# ------------------------------
+# See the advanced guide at README.md!
+
 "https://freerobux.com","scam","Fake Roblox currency site - harvests account credentials."
 "https://trustsentry.org","malware","Fake site, used to steal Roblox account info and send it to a Discord server while impersonating another website."
