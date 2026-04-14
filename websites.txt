@@ -2,7 +2,6 @@
 # Format: "url","reason" or "url","reason","developer note"
 # Valid reasons: malware, phishing, scam, scareware, spam, adware, tracking, riskware, piracy, cryptomining
 # Lines starting with # are ignored.
-# See the advanced guide at README.md!
 
 "https://freerobux.com","scam","Fake Roblox currency site - harvests account credentials."
 "https://trustsentry.org","malware","Fake site, used to steal Roblox account info and send it to a Discord server while impersonating another website."
