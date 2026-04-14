@@ -25,4 +25,4 @@
 # cryptomining  — browser-based coin miners without consent
 
 # ------------------------------
-"https://freerobux.com","scam" #self-explanitory, while it has a new look, i dont trust any part of it.
+"https://freerobux.com","scam","Fake Roblox currency site - harvests account credentials" #self-explanitory, has a new look but i aint buyin ANY of it.
