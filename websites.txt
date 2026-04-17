@@ -10,3 +10,4 @@
 "https://search-assistant.com","scam","Pretends to sell fake, malware, scam websites. Does not, and you shouldn't be taking the blame as the owner of a fake/malware/scam website."
 "https://misshelena-qvryuyw.work","malware","Host website for scam, malware, notification spam, and much more websites. Also covers its tracks, but not from me."
 "https://emailduolingo.com","malware","Fake site used to impersonate Duolingo and give malware to users. If you got a email (xxx@emailduolingo.com or xxx@xxx.emailduolingo.com), report it via your mail provider and NEVER interact with it."
+"https://dochubfast.com","malware","Used in email scams for malware. If you got a email from dochubfast.com or xxx.dochubfast.com, report it via your mail provider! If you want the real dochub, visit https://dochub.com (not sponsored, not a ad!)"
