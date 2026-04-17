@@ -9,3 +9,4 @@
 "https://bloxtools.nl","malware","Steals Roblox account info, prompts the user to paste in their Roblox cookie to steal their account."
 "https://search-assistant.com","scam","Pretends to sell fake, malware, scam websites. Does not, and you shouldn't be taking the blame as the owner of a fake/malware/scam website."
 "https://misshelena-qvryuyw.work","malware","Host website for scam, malware, notification spam, and much more websites. Also covers its tracks, but not from me."
+"https://emailduolingo.com","malware","Fake site used to impersonate Duolingo and give malware to users. If you got a email (xxx@emailduolingo.com or xxx@xxx.emailduolingo.com), report it via your mail provider and NEVER interact with it."
