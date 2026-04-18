@@ -16,3 +16,4 @@
 "http://www.nukoxa.com","malware","Used in many scams for malware and other scams."
 "https://digitalwallprotect.com","malware","Used in malware, and virus apps."
 "https://helpmicrosoft.com","phishing","Used to scam people and more."
+"https://www.googe.com/","phishing","Phishing, and maybe other scams."
