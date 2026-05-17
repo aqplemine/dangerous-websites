@@ -19,3 +19,4 @@
 "https://googe.com/","phishing","Phishing, and maybe other scams."
 "https://office-system.net/","malware","Malware, scams, and more. Used to download virus documents to 'sign' for a quote. If you have a email promoting this link, report it via your mail provider."
 "https://umgroupgloballtd.com/","Malware","Malware, scams, and more. If you got a email from this (*@umgroupgloballtd.com or *.*@umgroupgloballtd.com, report it to your mail provider."
+"https://Clixglo.site/","scam","scams, and more. Pretends to be the roblox robux page. You will NOT get free robux from this. ):"
