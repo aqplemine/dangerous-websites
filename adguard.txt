@@ -1,0 +1,43 @@
+!
+! Title: Aqplemine's Filter
+! Description: Filter composed of confirmed dangerous websites.
+! Homepage: https://github.com/aqplemine/dangerous-websites
+! License: https://github.com/aqplemine/dangerous-websites/blob/master/LICENSE
+! Last modified: 16/11/2026 (dd/mm/yyyy) by https://github.com/aqplemine
+!
+! Compiled by @aqplemine
+!
+!
+! Source name: Aqplemine's Dangerous Websites List.
+! Source: https://aqplemine.github.io/dangerous-websites/adguard.txt
+!
+!
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+! The rules with hints are at the end of file.
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
+!
+!
+! Credit to https://github.com/adguardteam for the original layout, and use case of this file. (:
+
+||freerobux.com^
+||trustsentry.org^
+||luiboard.com^
+||bloxtools.nl^
+||search-assistant.com^
+||misshelena-qvryuyw.work^
+||emailduolingo.com^
+||dochubfast.com^
+||noorton.com^
+||microsoff.com^
+||nukoxa.com^
+||digitalwallprotect.com^
+||helpmicrosoft.com^
+||googe.com^
+||office-system.net^
+||umgroupgloballtd.com^
+||clixglo.site^
