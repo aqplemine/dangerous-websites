@@ -1,7 +1,8 @@
 # DO NOT VISIT ANY OF THESE WEBSITES, AS A JOKE. THESE ARE ALL CONFIRMED DANGEROUS. NEVER VISIT ANY OF THESE AS A "JOKE". I AM NOT RESPONSIBLE FOR ANYTHING. USE AT YOUR OWN RISK, OR IF YOU WANT TO IMPLEMENT THIS INTO YOUR OWN API.
 # dangerous-websites
 used in my apis
-format
+MY format
+# for adguard format, find their own docs: https://github.com/AdguardTeam/KnowledgeBase - https://adguard.com/kb
 # Lines starting with # are comments and are ignored
 
 # ── Basic: URL only ──────────────────────────────────────────────
